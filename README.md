@@ -1,0 +1,1 @@
+# prism_spot_minimal_example
